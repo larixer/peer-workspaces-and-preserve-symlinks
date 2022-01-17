@@ -1,0 +1,7 @@
+{
+  "workspaces": [
+    "ws1",
+    "ws2",
+    "button"
+  ]
+}
